@@ -1,0 +1,538 @@
+[
+
+
+        {
+            "id": 1,
+            "title": "Sparkles",
+            "price": 76.50,
+            "category": "Ground Chakkers",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/sparkles.png[superuser][12-06-2024_05-56-11]..png",
+            "rating": {
+                "count": 10
+            }
+        },
+        {
+            "id": 2,
+            "title": "Whistling Wheel Double",
+            "price": 90.00,
+            "category": "Ground Chakkers",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/WHISTLING%20WHEEL%20DOUBLE.JPG[superuser][06-07-2024_05-49-22]..JPG",
+            "rating": {
+                "count": 15
+            }
+        },
+        {
+            "id": 3,
+            "title": "Whistling Wheel Double Alternate",
+            "price": 95.00,
+            "category": "Ground Chakkers",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/WHISTLING%20WHEEL%20DOUBLE.JPG[superuser][06-07-2024_05-47-43]..JPG",
+            "rating": {
+                "count": 12
+            }
+        },
+        {
+            "id": 4,
+            "title": "Vari Bijili (100 PCS) - Bag 1",
+            "price": 120.00,
+            "category": "Sound Crackers",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/VARI%20BIJILI%20(100%20PCS)%201%20bag.jpg[superuser][08-07-2024_10-53-12]..jpg",
+            "rating": {
+                "count": 8
+            }
+        },
+        {
+            "id": 5,
+            "title": "Vari Bijili (100 PCS) - Bag 2",
+            "price": 125.00,
+            "category": "Sound Crackers",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/VARI%20BIJILI%20(100%20PCS)%201%20bag.jpg[superuser][08-07-2024_10-52-42]..jpg",
+            "rating": {
+                "count": 10
+            }
+        },
+        {
+            "id": 6,
+            "title": "50 Shots",
+            "price": 350.00,
+            "category": "Aerial Displays",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/Products%20(83).jpg[superuser][08-07-2024_10-10-34]..jpg",
+            "rating": {
+                "count": 14
+            }
+        },
+        {
+            "id": 7,
+            "title": "25 Shots",
+            "price": 155.00,
+            "category": "Aerial Displays",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/Products%20(83).jpg[superuser][08-07-2024_10-10-11]..jpg",
+            "rating": {
+                "count": 9
+            }
+        },
+        {
+            "id": 8,
+            "title": "Product Image 83 - Variant 3",
+            "price": 160.00,
+            "category": "Aerial Displays",
+            "image": "https://admin.kathiravanfireworks.com/Uploads/Products/Products%20(83).jpg[superuser][08-07-2024_10-09-38]..jpg",
+            "rating": {
+                "count": 11
+            }
+        },
+    
+    
+    {
+        "id": 9,
+        "title": "Popcorn Candle Hi Light (Gold) - Box 1",
+        "price": 85.00,
+        "category": "Candles",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/POPCORN%20CANDLE%20%20HI%20LIGHT%20(GOLD)%20(5%20PCS)%201%20Box.jpg[superuser][08-07-2024_11-04-26]..jpg",
+        "rating": {
+            "count": 10
+        }
+    },
+    {
+        "id": 10,
+        "title": "Popcorn Candle Hi Light (Gold) - Box 2",
+        "price": 90.00,
+        "category": "Candles",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/POPCORN%20CANDLE%20%20HI%20LIGHT%20(GOLD)%20(5%20PCS)%201%20Box.jpg[superuser][08-07-2024_11-04-03]..jpg",
+        "rating": {
+            "count": 15
+        }
+    },
+    {
+        "id": 11,
+        "title": "Peacock Red, Green, and Gold",
+        "price": 120.00,
+        "category": "Aerial Displays",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/PEACOCK%20RED%20&%20GREEN%20&%20GOLD.jpg[superuser][08-07-2024_10-24-39]..jpg",
+        "rating": {
+            "count": 18
+        }
+    },
+    {
+        "id": 12,
+        "title": "Lunik Rocket (10 PCS) - 2 Boxes",
+        "price": 150.00,
+        "category": "Rockets",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/LUNIK%20ROCKET%20(%2010%20PCS%20)%202%20Box.jpg[superuser][08-07-2024_10-19-08]..jpg",
+        "rating": {
+            "count": 20
+        }
+    },
+    {
+        "id": 13,
+        "title": "King of King Bomb Green",
+        "price": 75.00,
+        "category": "Bombs",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/KING%20OF%20KING%20BOMB%20GREEN.jpg[superuser][08-07-2024_10-50-15]..jpg",
+        "rating": {
+            "count": 25
+        }
+    },
+    {
+        "id": 14,
+        "title": "Flower Pot Deluxe (5 PCS)",
+        "price": 125.00,
+        "category": "Flower Pots",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/FLOWER%20POT%20DELUXE%20(5%20PCS).jpg[superuser][08-07-2024_10-33-02]..jpg",
+        "rating": {
+            "count": 30
+        }
+    },
+    {
+        "id": 15,
+        "title": "120 Shot Multi-Color",
+        "price": 220.00,
+        "category": "Aerial Displays",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/120%20SHOT%20MULTI%20COLOUR%20(OTHER).jpg[superuser][08-07-2024_10-16-15]..jpg",
+        "rating": {
+            "count": 40
+        }
+    },
+    {
+        "id": 16,
+        "title": "56 Giant Crackers",
+        "price": 190.00,
+        "category": "Crackers",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/56%20GAINT%20CRACKERS.jpg[superuser][08-07-2024_10-29-43]..jpg",
+        "rating": {
+            "count": 35
+        }
+    },
+    {
+        "id": 17,
+        "title": "10 CM Electric Sparkler",
+        "price": 65.00,
+        "category": "Sparklers",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/10%20CM%20ELECTRIC%20SPARKLER.jpg[superuser][06-07-2024_06-18-58]..jpg",
+        "rating": {
+            "count": 45
+        }
+    },
+    {
+        "id": 18,
+        "title": "4'' Laxmi Joker Gold (12 Play)",
+        "price": 150.00,
+        "category": "Sparklers",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/4''%20LAXMI%20%20JOKER%20%20GOLD%20LAXMI%20(%2012%20PLAY%20).jpg[superuser][06-07-2024_06-07-54]..jpg",
+        "rating": {
+            "count": 52
+        }
+    },
+    {
+        "id": 19,
+        "title": "BOBY GOLD SPARKLERS 7CM(10pcs)",
+        "price": 20.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-26.jpg",
+        "rating": {
+            "count": 51
+        }
+    },
+    {
+        "id": 20,
+        "title": "12CM 4 COLOUR SPARKLERS (10PCS)",
+        "price": 50.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-295.jpg",
+        "rating": {
+            "count": 35
+        }
+    },
+    {
+        "id": 21,
+        "title": "12CM RED SPARKLERS (10PCS)",
+        "price": 50.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-344.jpg",
+        "rating": {
+            "count": 43
+        }
+    },
+    {
+        "id": 22,
+        "title": "GOLD SPARKLERS 15CM(10PCS)",
+        "price": 80.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-112.jpg",
+        "rating": {
+            "count": 12
+        }
+    },
+    {
+        "id": 23,
+        "title": "GOLD SPARKLERS 30CM(5PCS)",
+        "price": 150.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-114.jpg",
+        "rating": {
+            "count": 55
+        }
+    },
+    {
+        "id": 24,
+        "title": "RED SPARKLERS 15CM(10PCS)",
+        "price": 80.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-119.jpg",
+        "rating": {
+            "count": 23
+        }
+    },
+
+    {
+        "id": 25,
+        "title": "LEMON TREE SPARKLERS 15CM(10PCS)",
+        "price": 150.00,
+        "category": "Sparklers",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-122.jpg",
+        "rating": {
+            "count": 22
+        }
+        
+    },
+    {
+        "id": 26,
+        "title": "THE GREAT SPLENDOUR FOUNTAIN (1PC)",
+        "price": 150.00,
+        "category": "Flowerpots",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-135.jpg",
+        "rating": {
+            "count": 15
+        }
+        
+    },
+    {
+        "id": 27,
+        "title": "FLOWERPOT SMALL(10PCS)",
+        "price": 100.00,
+        "category": "Flowerpots",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-5.jpg",
+        "rating": {
+            "count": 65
+        }
+        
+    },
+    {
+        "id": 28,
+        "title": "JET FOUNTAIN (5PCS) ",
+        "price": 150.00,
+        "category": "Flowerpots",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-139.jpg",
+        "rating": {
+            "count": 21
+        }
+        
+    },
+    {
+        "id": 29,
+        "title": "FLOWERPOTS BIG(10PCS)",
+        "price": 200.00,
+        "category": "Flowerpots",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-126.jpg",
+        "rating": {
+            "count": 34
+        }
+        
+    },
+    {
+        "id": 30,
+        "title": "FLOWERPOTS SPECIAL (10PCS)",
+        "price": 250.00,
+        "category": "Flowerpots",
+        "image": "https://standardcrackers.com/assets/uploads/product-featured-127.jpg",
+        "rating": {
+            "count": 32
+        }
+        
+    },
+    {
+        "id": 31,
+        "title": "7 Shots 5 PCs",
+        "price": 85.00,
+        "category": "MultiShots",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/Products%20(83).jpg[superuser][08-07-2024_10-06-31]..jpg",
+        "rating": {
+            "count": 22
+        }
+        
+    },
+    {
+        "id": 32,
+        "title": "25 Shot Multi Colour",
+        "price": 250.00,
+        "category": "MultiShots",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/LY/YV/CO/88716796/6e9b4a00-da16-4f6a-85a4-435c104d5a90.jpeg",
+        "rating": {
+            "count": 43
+        }
+        
+    },
+    {
+        "id": 33,
+        "title": "120 Shot Multi Colour",
+        "price": 1800.00,
+        "category": "MultiShots",
+        "image": "https://archanfireworks.com/public/uploads/all/XAk2CII2JNtahdgIbV5r7fMsy1s21jDzh7kkLHw8.jpg",
+        "rating": {
+            "count": 23
+        }
+        
+    },
+    {
+        "id": 34,
+        "title": "240 Shot Multi Colour",
+        "price": 3600.00,
+        "category": "MultiShots",
+        "image": "https://sivakasibijili.in/wp-content/uploads/2023/04/sbc_093a.jpg",
+        "rating": {
+            "count": 44
+        }
+        
+    },
+    {
+        "id": 35,
+        "title": "100 Shots Rider",
+        "price": 880.00,
+        "category": "MultiShots",
+        "image": "https://hyderabadcrackers.com/Images/Product/eatr%20100%20shots%20standard%20crackers.png",
+        "rating": {
+            "count": 57
+        }
+        
+    },
+    {
+        "id": 36,
+        "title": "Atom Bomb Big",
+        "price": 55.00,
+        "category": "Atom Bomb",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/KING%20OF%20KING%20BOMB%20GREEN.jpg[superuser][08-07-2024_10-34-17]..jpg",
+        "rating": {
+            "count": 35
+        }
+        
+    },
+    {
+        "id": 37,
+        "title": "Agni Bomb",
+        "price": 147.00,
+        "category": "Atom Bomb",
+        "image": "https://kadeshwarafireworks.in/wp-content/uploads/2024/08/agni-bomb.jpeg",
+        "rating": {
+            "count": 23
+        }
+        
+    },
+    {
+        "id": 38,
+        "title": "Digital Bomb",
+        "price": 180.00,
+        "category": "Atom Bomb",
+        "image": "https://archanfireworks.com/public/uploads/all/8vWi1jdbsyPOshxW1dq6HCF6paX5i4Og3F9MEmOW.webp",
+        "rating": {
+            "count": 67
+        }
+        
+    },
+    {
+        "id": 39,
+        "title": "Annaatthe Papper Bomb",
+        "price": 148.50,
+        "category": "Atom Bomb",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3iZi4I-WL4ZwIDLq8wO_XzZTg2FDoMZX4Fw&s",
+        "rating": {
+            "count": 51
+        }
+        
+    },
+    {
+        "id": 40,
+        "title": "Paper Bomb 1 Kg",
+        "price": 175.00,
+        "category": "Atom Bomb",
+        "image": "https://www.crackersshope.com/wp-content/uploads/2017/08/WhatsApp-Image-2022-09-26-at-9.18.23-AM-Copy.jpeg",
+        "rating": {
+            "count": 33
+        }
+        
+    },
+    {
+        "id": 41,
+        "title": "100 Wala",
+        "price": 37.50,
+        "category": "Wala Crackers",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/PEACOCK%20RED%20&%20GREEN%20&%20GOLD.jpg[superuser][08-07-2024_10-21-30]..jpg",
+        "rating": {
+            "count": 77
+        }
+        
+    },
+    {
+        "id": 42,
+        "title": "200 Wala",
+        "price": 75.50,
+        "category": "Wala Crackers",
+        "image": "https://cdn.dotpe.in/longtail/store-items/6332976/zpJFrkN9.jpeg",
+        "rating": {
+            "count": 12
+        }
+        
+    },
+    {
+        "id": 43,
+        "title": "1000 Wala",
+        "price": 210.50,
+        "category": "Wala Crackers",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2024/1/374472397/IV/IB/KI/3209555/1000-wala-garland-cracker.jpg",
+        "rating": {
+            "count": 17
+        }
+        
+    },
+    {
+        "id": 44,
+        "title": "5000 Wala",
+        "price": 1050.50,
+        "category": "Wala Crackers",
+        "image": "https://vinayagacracker.orderz.in/uploads/restorants/c56f8391-69ae-4213-beb0-4c56785e7d67_large.jpg",
+        "rating": {
+            "count": 37
+        }
+        
+    },
+    {
+        "id": 45,
+        "title": "10000 Wala",
+        "price": 2100.50,
+        "category": "Wala Crackers",
+        "image": "https://hyderabadbazaar.com/images/10023/diwali111006-001b.jpg",
+        "rating": {
+            "count": 38
+        }
+        
+    },
+    {
+        "id": 46,
+        "title": "Kids Special",
+        "price": 450.50,
+        "category": "Gift Box",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/1%20Box.jpg[superuser][12-06-2024_01-55-06]..jpg",
+        "rating": {
+            "count": 19
+        }
+        
+    },
+    {
+        "id": 47,
+        "title": "Mottlu Battlu (20 items)",
+        "price": 550.50,
+        "category": "Gift Box",
+        "image": "https://admin.kathiravanfireworks.com/Uploads/Products/Products%20(39).jpg[superuser][06-07-2024_05-42-17]..jpg",
+        "rating": {
+            "count": 31
+        }
+        
+    },
+    {
+        "id": 48,
+        "title": "Ponniyin Selvan (30 items)",
+        "price": 900.00,
+        "category": "Gift Box",
+        "image": "https://www.aadhityatraders.com/wp-content/uploads/2023/09/27.png.webp",
+        "rating": {
+            "count": 61
+        }
+        
+    },
+    {
+        "id": 49,
+        "title": "Messi (40 items)",
+        "price": 1400.00,
+        "category": "Gift Box",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN4PJ3735WnsPyV3Nhyxh-GYO_mlerYdTew&s",
+        "rating": {
+            "count": 21
+        }
+        
+    },
+    {
+        "id": 50,
+        "title": "Mahalakshmi Mega (50 items)",
+        "price": 2000.00,
+        "category": "Gift Box",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2022/9/VM/VN/FX/118878731/product-jpeg-500x500.jpg",
+        "rating": {
+            "count": 18
+        }
+        
+
+    }
+
+
+
+
+]
